@@ -1,6 +1,10 @@
 {
   "events": [
     { "id": 1, "name": "Cricket" , "date":"19-Nov-2020 5PM", "venue":"Chennai"},
-    { "id": 2, "name": "Boxing" , "date":"20-Nov-2020 7PM", "venue":"Bangalore"}
+    { "id": 2, "name": "Boxing" , "date":"20-Nov-2020 7PM", "venue":"Bangalore"},
+    { "id": 3, "name": "Hockey" , "date":"21-Nov-2020 2PM", "venue":"Hydrabad"},
+    { "id": 4, "name": "Cycling" , "date":"22-Nov-2020 8PM", "venue":"Delhi"},
+    { "id": 5, "name": "Athletics" , "date":"23-Nov-2020 6PM", "venue":"Kolkata"},
+    { "id": 6, "name": "Tenis" , "date":"24-Nov-2020 12PM", "venue":"Mumbai"}
   ]
 }
